@@ -1,0 +1,10 @@
+{
+  "name": "Voice AI Assistant",
+  "description": "Real-time voice-to-voice AI assistant with a witty, sassy persona powered by Gemini Live audio streaming.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
